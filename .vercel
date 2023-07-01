@@ -1,6 +1,4 @@
 build:
-  command: pip install -r requirement.txt
+  command: pip install flask keras tensorflow pillow
 
-install:
-  command: pip install -r requirement.txt
 
