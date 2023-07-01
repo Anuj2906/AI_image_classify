@@ -1,0 +1,6 @@
+build:
+  command: pip install -r requirement.txt
+
+install:
+  command: pip install -r requirement.txt
+
