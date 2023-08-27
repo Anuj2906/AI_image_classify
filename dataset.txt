@@ -1,0 +1,18 @@
+Training dataset :-
+Real - https://drive.google.com/file/d/1V56SmNjnJ_fOsr-Et0tbhkgzuGpU79YC/view?usp=drive_link
+AI generated - https://drive.google.com/file/d/19VAl87XdWVnr9x_Glc7-CVFKgEJ15zdj/view?usp=drive_link
+
+Evaluation dataset :-
+Real - https://drive.google.com/file/d/17ymc-jFuuzqCubZBUL_clSRrsCJRWXzy/view?usp=drive_link
+AI generated - https://drive.google.com/file/d/104vnc7aHeBUsQIEYfU08Wfymd-Ft7sAB/view?usp=drive_link
+
+Test dataset :-
+Real - https://drive.google.com/file/d/1Gs13Vt1l2Dj17G6i7dHSFMiN-JLmJoin/view?usp=drive_link
+AI generated - https://drive.google.com/file/d/1B_0PecedighBRl4l8Nqlh6zB51cuhN_c/view?usp=drive_link
+
+.h5 model file :-
+https://drive.google.com/file/d/10GuJCcIdckPbbKhAuiGMrX_XrZXgyQ4f/view?usp=drive_link
+
+.keras model file :-
+https://drive.google.com/file/d/10SGRODc2T8lnM8Vuya-Qi3DvLOjVywWp/view?usp=drive_link
+
